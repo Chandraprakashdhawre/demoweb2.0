@@ -1,0 +1,59 @@
+header{
+    background-color: black;
+     justify-content: space-between;
+    color: white;
+    display: flex;
+    border: 2px solid #ff0000;
+    padding: auto;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    
+}
+   
+.box2{
+ background-image: url(https://images.unsplash.com/photo-1614624532983-4ce03382d63d?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fHww);
+    background-size: cover;
+    padding: 180px;
+    text-align: center;
+    color: white;
+    z-index: 5;
+}
+.f1{
+     background-color: black;
+     justify-content: space-between;
+    color: white;
+    display: flex;
+    align-items: center;
+
+
+}
+body{
+    width: 100%;
+}
+.s2{
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    div{
+        border: 2px solid red;
+        margin: 20px;
+        padding: 20px;
+    }
+}
+.gt{
+   
+    height: 500px;
+    position: absolute;
+    width: 100%;
+    top:18% ;
+    z-index: 2;
+
+
+}
+
+
